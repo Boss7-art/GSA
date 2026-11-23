@@ -1,0 +1,9 @@
+/external/
+/model/*.safetensors
+/model/*.pth
+/model/depth/model.safetensors
+/data/images/
+/data/validation_depth/
+/results/
+/_cache/
+__pycache__/

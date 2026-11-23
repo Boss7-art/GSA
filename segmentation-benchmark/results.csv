@@ -1,0 +1,5 @@
+model,depth,samples,mIoU_hungarian
+EMSANet,zero_depth,34,0.09504406321596268
+EMSANet,depthanything_direct,34,0.12406068942189814
+EMSANet,depthanything_inverted,34,0.14790206585092375
+PGDENet,depthanything_inverted,10,0.15205535355074593

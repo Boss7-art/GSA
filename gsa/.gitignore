@@ -1,0 +1,14 @@
+/weights/*
+!/weights/slab/
+!/weights/wall/
+/weights/slab/*
+!/weights/slab/model.pt
+!/weights/slab/floor_veto.npz
+/weights/wall/*
+!/weights/wall/model.pt
+!/weights/wall/layout_model.npz
+__pycache__/
+*.py[cod]
+/.venv/
+/results/
+/outputs/

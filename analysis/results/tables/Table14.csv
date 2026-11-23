@@ -1,0 +1,4 @@
+﻿Model,Feature_set,selection,max_depth,max_features,min_samples_leaf,min_samples_split,n_estimators,inner_CV_mean_MSE
+1,Built-Environment-Only,Training-only GridSearchCV,6,1.0,2,2,800,0.18737218004886724
+2,Mobile-Signaling-Only,Training-only GridSearchCV,6,sqrt,2,5,800,0.20671077671453295
+3,Combined,Training-only GridSearchCV,,1.0,2,2,500,0.15844256465321913
